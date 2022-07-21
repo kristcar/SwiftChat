@@ -80,7 +80,10 @@ class ChatViewController: UIViewController {
                         print("Error saving data, \(e)")
                     } else {
                         print("Saved data")
-                        self.messageTextfield.text = "" //after send pressed, removes text
+                        DispatchQueue.main.async {
+                            self.messageTextfield.text = "" //after send pressed, removes text
+                        }
+                        
                     }
             }
         }
