@@ -2,4 +2,12 @@
 
 # Flash Chat
 
-In Development! Check back soon!
+A messenging app made with Swift. 
+
+This project includes:
+
+* Firebase Authentication 
+* Firestore Database
+* CocoaPods - CLTypingLabel
+* Swift Package Manager - IQKeyboardManager
+
