@@ -69,6 +69,7 @@
             </accessibility>
             <connections>
                 <outlet property="label" destination="k6a-Vq-hCH" id="MKm-Ob-B6y"/>
+                <outlet property="leftImageView" destination="cXc-Od-O3r" id="FVs-dL-Hg9"/>
                 <outlet property="messageBubble" destination="yZS-7g-JCz" id="Acv-Gy-o8i"/>
                 <outlet property="rightImageView" destination="QO6-vR-bFJ" id="1qH-8O-Mxa"/>
             </connections>
