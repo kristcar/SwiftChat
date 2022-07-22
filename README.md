@@ -24,7 +24,3 @@ Here is a preview!
 <br /> 
 ![Chat Demo](demo/chat.gif)
 
-
-**Full Flow** 
-<br /> 
-![Full Demo](demo/flow.gif)
