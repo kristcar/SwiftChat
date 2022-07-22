@@ -10,7 +10,7 @@ A messenging app made with Swift. This project is also made with:
 
 Here is a preview!
 
-<br /> 
+
 **Welcome Screen**
 <br /> 
 ![Welcome Demo](demo/welcome.gif)
