@@ -1,4 +1,4 @@
-#Flash Chat
+<h1>Flash Chat<h1>
 
 A messenging app made with Swift. This project is also made with:
 
