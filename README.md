@@ -7,8 +7,9 @@ A messenging app made with Swift. This project is also made with:
 * CocoaPods - CLTypingLabel
 * Swift Package Manager - IQKeyboardManager
 
-<br /> 
+
 Here is a preview!
+
 <br /> 
 **Welcome Screen**
 <br /> 
