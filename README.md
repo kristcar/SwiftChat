@@ -7,16 +7,19 @@ A messenging app made with Swift. This project is also made with:
 * CocoaPods - CLTypingLabel
 * Swift Package Manager - IQKeyboardManager
 
-
+<br /> 
 Here is a preview!
-
+<br /> 
 **Welcome Screen**
+<br /> 
 ![Welcome Demo](demo/welcome.gif)
 
 **Registration and Login**
+<br /> 
 ![Register Demo](demo/registration.gif) ![Login Demo](demo/login.gif)
 
 **Message Sending between Users** 
+<br /> 
 ![Chat Demo](demo/chat.gif)
 
 
