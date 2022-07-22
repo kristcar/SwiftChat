@@ -27,4 +27,4 @@ Here is a preview!
 
 **Full Flow** 
 <br /> 
-![Full Demo](fast/chat.gif)
+![Full Demo](demo/fast.gif)
