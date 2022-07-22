@@ -1,6 +1,6 @@
-<h1>Flash Chat<h1>
+<h1>Flash Chat</h1>
 
-<body>
+
 A messenging app made with Swift. This project is also made with:
 
 * Firebase Authentication 
@@ -10,7 +10,7 @@ A messenging app made with Swift. This project is also made with:
 
 
 Here is a preview!
-</body>
+
 
 **Welcome Screen**
 <br /> 
